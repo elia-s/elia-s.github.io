@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admins on My New Hugo Site</title>
+    <link>http://localhost:1313/admin/</link>
+    <description>Recent content in Admins on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/</guid>
+      <description>&lt;!-- forestryio: ignore; forestryio: admin --&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;title&gt;Admin&lt;/title&gt;
+    &lt;meta name=&#34;description&#34; content=&#34; &#34; /&gt;
+    &lt;meta name=&#34;author&#34; content=&#34; &#34; /&gt;
+    &lt;meta name=&#34;HandheldFriendly&#34; content=&#34;true&#34; /&gt;
+    &lt;meta name=&#34;MobileOptimized&#34; content=&#34;320&#34; /&gt;
+    &lt;!-- Use maximum-scale and user-scalable at your own risk. It disables pinch/zoom. Think about usability/accessibility before including.--&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no&#34; /&gt;
+
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css&#34;&gt;
+
+    &lt;!-- Google font --&gt;
+    &lt;link href=&#34;https://fonts.googleapis.com/css?family=Open+Sans&#34; rel=&#34;stylesheet&#34;&gt;
+
+    &lt;!-- Fort awesome icon kit --&gt;
+    &lt;script src=&#34;https://use.fortawesome.com/b6f38602.js&#34;&gt;&lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&#34;app&#34;&gt;
+
+&lt;/div&gt;
+&lt;script id=&#34;admin-config-script&#34; type=&#34;text/javascript&#34;&gt;
+    var env = {
+        api: &#34;https://forestry.io&#34;,
+        siteId: &#34;s-wdumy5irqnaq&#34;,
+        dateFormat: &#34;MM/DD/YYYY h:mm A&#34;
+    };
+&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://local.forestry.io/main.css&#34; /&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://local.forestry.io/forestry.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; async=&#34;&#34; src=&#34;https://widget.intercom.io/widget/i9oymrzt&#34;&gt;&lt;/script&gt;
+&lt;script id=&#34;IntercomSettingsScriptTag&#34;&gt;
+    window.intercomSettings = {
+        app_id: &#34;i9oymrzt&#34;
+    };
+    (function(){var w=window;var ic=w.Intercom;if(typeof ic===&#34;function&#34;){ic(&#39;reattach_activator&#39;);ic(&#39;update&#39;,intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement(&#39;script&#39;);s.type=&#39;text/javascript&#39;;s.async=true;s.src=&#39;https://widget.intercom.io/widget/i9oymrzt&#39;;var x=d.getElementsByTagName(&#39;script&#39;)[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent(&#39;onload&#39;,l);}else{w.addEventListener(&#39;load&#39;,l,false);}};})()&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

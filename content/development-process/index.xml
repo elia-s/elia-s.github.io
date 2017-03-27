@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development-process-rsses on HBP SP8 repository</title>
+    <link>https://hbpmedical.github.io/development-process/index.xml</link>
+    <description>Recent content in Development-process-rsses on HBP SP8 repository</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 07 Oct 2016 18:23:51 +0200</lastBuildDate>
+    <atom:link href="https://hbpmedical.github.io/development-process/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Development process</title>
+      <link>https://hbpmedical.github.io/development-process/</link>
+      <pubDate>Fri, 07 Oct 2016 18:23:51 +0200</pubDate>
+      
+      <guid>https://hbpmedical.github.io/development-process/</guid>
+      <description>
+
+&lt;h2 id=&#34;code-versioning-and-working-practice&#34;&gt;Code Versioning and Working Practice&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The code of the MIP is versioned into Github.&lt;/li&gt;
+&lt;li&gt;Each project should contain at least a master branch and a stable branch.&lt;/li&gt;
+&lt;li&gt;The stable branch should contain only strongly tested code that can be used in a production environment.&lt;/li&gt;
+&lt;li&gt;The master branch should contain the latest working features that needs to be strongly tested before being merged to the stable branch.&lt;/li&gt;
+&lt;li&gt;Each developer should create new branches (usually from the master branch) to implement new features and/or to fix bugs.&lt;/li&gt;
+&lt;li&gt;No one should directly commit changes into the stable or master branch. Once feature/bug-fix branch is working the branch can be merged into the master one.&lt;/li&gt;
+&lt;li&gt;For big changes, a merge request should be created and assigned to another developer.&lt;/li&gt;
+&lt;li&gt;AUTOMATION: The stable branch should never be updated manually. The CI system should look for changes in the master branch and automatically run some tests on it. If the automatic tests are successfully passed, the CI system will create a merge request from the master branch to the stable branch or automatically do the merge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;testing-unit-and-integration&#34;&gt;Testing (Unit and Integration)&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Each component should include unit tests which should be executed each time will build it.&lt;/li&gt;
+&lt;li&gt;Each built component (usually a Docker image) should also be tested with integration tests before being pushed on a repository (usually Docker Hub). These tests are needed by the CI system to decide whether a feature can be considered stable enough for the stable branch.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;docker-images-versioning&#34;&gt;Docker Images Versioning&lt;/h2&gt;
+
+&lt;p&gt;As Docker is a key technology in our platform, each Docker component we build should be versioned using a &amp;quot;Git commit hash&amp;quot; and pushed on Docker Hub (at &lt;a href=&#34;https://hub.docker.com/u/hbpmip/&#34;&gt;https://hub.docker.com/u/hbpmip/&lt;/a&gt;) or on our private Docker Registry server. In this way, we will always be able to retrieve the precise code (on GitLab) that was used to build an Docker image.&lt;/p&gt;
+
+&lt;p&gt;We also will be able to rollback or commit a new version of a component in a very easy way.&lt;/p&gt;
+
+&lt;h2 id=&#34;binaries-versioning&#34;&gt;Binaries Versioning&lt;/h2&gt;
+
+&lt;p&gt;As a few components like libraries should be built for &amp;quot;non-docker&amp;quot; use. These will be versioned and pushed on Artifactory.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

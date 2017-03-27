@@ -1,0 +1,3164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/README/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/README/</guid>
+      <description>
+
+&lt;h1 id=&#34;hbpsp8repo-github-io:04c6e90faac2675aa89e2176d2eec7d8&#34;&gt;HBPSP8Repo.github.io&lt;/h1&gt;
+
+&lt;p&gt;Public site for HBP SP8&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/</guid>
+      <description>&lt;!-- forestryio: ignore; forestryio: admin --&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;title&gt;Admin&lt;/title&gt;
+    &lt;meta name=&#34;description&#34; content=&#34; &#34; /&gt;
+    &lt;meta name=&#34;author&#34; content=&#34; &#34; /&gt;
+    &lt;meta name=&#34;HandheldFriendly&#34; content=&#34;true&#34; /&gt;
+    &lt;meta name=&#34;MobileOptimized&#34; content=&#34;320&#34; /&gt;
+    &lt;!-- Use maximum-scale and user-scalable at your own risk. It disables pinch/zoom. Think about usability/accessibility before including.--&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no&#34; /&gt;
+
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css&#34;&gt;
+
+    &lt;!-- Google font --&gt;
+    &lt;link href=&#34;https://fonts.googleapis.com/css?family=Open+Sans&#34; rel=&#34;stylesheet&#34;&gt;
+
+    &lt;!-- Fort awesome icon kit --&gt;
+    &lt;script src=&#34;https://use.fortawesome.com/b6f38602.js&#34;&gt;&lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&#34;app&#34;&gt;
+
+&lt;/div&gt;
+&lt;script id=&#34;admin-config-script&#34; type=&#34;text/javascript&#34;&gt;
+    var env = {
+        api: &#34;https://forestry.io&#34;,
+        siteId: &#34;s-wdumy5irqnaq&#34;,
+        dateFormat: &#34;MM/DD/YYYY h:mm A&#34;
+    };
+&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://local.forestry.io/main.css&#34; /&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://local.forestry.io/forestry.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; async=&#34;&#34; src=&#34;https://widget.intercom.io/widget/i9oymrzt&#34;&gt;&lt;/script&gt;
+&lt;script id=&#34;IntercomSettingsScriptTag&#34;&gt;
+    window.intercomSettings = {
+        app_id: &#34;i9oymrzt&#34;
+    };
+    (function(){var w=window;var ic=w.Intercom;if(typeof ic===&#34;function&#34;){ic(&#39;reattach_activator&#39;);ic(&#39;update&#39;,intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement(&#39;script&#39;);s.type=&#39;text/javascript&#39;;s.async=true;s.src=&#39;https://widget.intercom.io/widget/i9oymrzt&#39;;var x=d.getElementsByTagName(&#39;script&#39;)[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent(&#39;onload&#39;,l);}else{w.addEventListener(&#39;load&#39;,l,false);}};})()&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/development-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/development-process/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+  
+  
+  
+  
+   &lt;html class=&#34;no-js&#34;&gt; 
+
+  &lt;head lang=&#34;en-uk&#34;&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=10&#34; /&gt;
+    &lt;title&gt;Development process - HBP SP8 repository&lt;/title&gt;
+    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.17&#34; /&gt;
+
+    
+    &lt;meta name=&#34;description&#34; content=&#34;SP8 subproject (Medical Informatics Platform) for the Human Brain Project.&#34;&gt;
+    
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+    
+    &lt;meta name=&#34;author&#34; content=&#34;HBP SP8 team&#34;&gt;
+    
+
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+    &lt;meta property=&#34;og:title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta property=&#34;og:image&#34; content=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-capable&#34; content=&#34;yes&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-status-bar-style&#34; content=&#34;black-translucent&#34;&gt;
+
+    &lt;link rel=&#34;shortcut icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+
+    &lt;style&gt;
+      @font-face {
+        font-family: &#39;Icon&#39;;
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;);
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;)
+               format(&#39;embedded-opentype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.woff&#39;)
+               format(&#39;woff&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.ttf&#39;)
+               format(&#39;truetype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.svg&#39;)
+               format(&#39;svg&#39;);
+        font-weight: normal;
+        font-style: normal;
+      }
+    &lt;/style&gt;
+
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/application.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/temporary.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/palettes.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/highlight/highlight.css&#34;&gt;
+
+    
+    
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&amp;#43;Mono&#34;&gt;
+    &lt;style&gt;
+      body, input {
+        font-family: &#39;Ubuntu&#39;, Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: &#39;Ubuntu Mono&#39;, &#39;Courier New&#39;, &#39;Courier&#39;, monospace;
+      }
+    &lt;/style&gt;
+
+    
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/modernizr.js&#34;&gt;&lt;/script&gt;
+
+    
+
+  &lt;/head&gt;
+  &lt;body class=&#34;palette-primary-red palette-accent-teal&#34;&gt;
+
+
+
+
+&lt;div class=&#34;backdrop&#34;&gt;
+	&lt;div class=&#34;backdrop-paper&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-drawer&#34;&gt;
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-search&#34;&gt;
+&lt;label class=&#34;toggle-button overlay&#34; for=&#34;toggle-drawer&#34;&gt;&lt;/label&gt;
+
+&lt;header class=&#34;header&#34;&gt;
+	&lt;nav aria-label=&#34;Header&#34;&gt;
+  &lt;div class=&#34;bar default&#34;&gt;
+    &lt;div class=&#34;button button-menu&#34; role=&#34;button&#34; aria-label=&#34;Menu&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-menu&#34; for=&#34;toggle-drawer&#34;&gt;
+        &lt;span&gt;&lt;/span&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;
+        Development process
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div class=&#34;button button-twitter&#34; role=&#34;button&#34; aria-label=&#34;Twitter&#34;&gt;
+       &lt;a href=&#34;https://twitter.com/HBPmedical&#34; title=&#34;@HBPmedical on Twitter&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-twitter&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;div class=&#34;button button-github&#34; role=&#34;button&#34; aria-label=&#34;GitHub&#34;&gt;
+      &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; title=&#34;@HBPSP8Repo on GitHub&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-github&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+    
+        
+  &lt;/div&gt;
+  &lt;div class=&#34;bar search&#34;&gt;
+    &lt;div class=&#34;button button-close&#34; role=&#34;button&#34; aria-label=&#34;Close&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-back&#34; for=&#34;toggle-search&#34;&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;field&#34;&gt;
+        &lt;input class=&#34;query&#34; type=&#34;text&#34; placeholder=&#34;Search&#34; autocapitalize=&#34;off&#34; autocorrect=&#34;off&#34; autocomplete=&#34;off&#34; spellcheck&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;button button-reset&#34; role=&#34;button&#34; aria-label=&#34;Search&#34;&gt;
+      &lt;button class=&#34;toggle-button icon icon-close&#34; id=&#34;reset-search&#34;&gt;&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;/header&gt;
+
+&lt;main class=&#34;main&#34;&gt;
+	&lt;div class=&#34;drawer&#34;&gt;
+		&lt;nav aria-label=&#34;Navigation&#34;&gt;
+  &lt;a href=&#34;https://github.com/HBPSP8Repo/HBPSP8Repo.github.io&#34; class=&#34;project&#34;&gt;
+    &lt;div class=&#34;banner&#34;&gt;
+      
+        &lt;div class=&#34;logo&#34;&gt;
+          &lt;img src=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+        &lt;/div&gt;
+      
+      &lt;div class=&#34;name&#34;&gt;
+        &lt;strong&gt;HBP SP8 repository &lt;/strong&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+  &lt;div class=&#34;scrollable&#34;&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      
+
+      &lt;div class=&#34;toc&#34;&gt;
+        
+        &lt;ul&gt;
+          
+
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;HBP SP8&#34; href=&#34;https://hbpmedical.github.io/&#34;&gt;
+	
+	HBP SP8
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Documentation&#34; href=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+	
+	Documentation
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a class=&#34;current&#34; title=&#34;Development Process&#34; href=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+	
+	Development Process
+&lt;/a&gt;
+
+
+&lt;ul id=&#34;scrollspy&#34;&gt;
+&lt;/ul&gt;
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Software Catalog&#34; href=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+	
+	Software Catalog
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Technology stack&#34; href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+	
+	Technology stack
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Release notes&#34; href=&#34;https://hbpmedical.github.io/release-notes&#34;&gt;
+	
+	Release notes
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+        &lt;/ul&gt;
+        
+
+        
+        &lt;hr&gt;
+        &lt;span class=&#34;section&#34;&gt;The author&lt;/span&gt;
+        
+        &lt;ul&gt;
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://twitter.com/HBPmedical&#34; target=&#34;_blank&#34; title=&#34;@HBPmedical on Twitter&#34;&gt;
+              @HBPmedical on Twitter
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; target=&#34;_blank&#34; title=&#34;@HBPSP8Repo on GitHub&#34;&gt;
+              @HBPSP8Repo on GitHub
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;mailto:hbp_medicalinformatics@chuv.ch&#34; title=&#34;Email of hbp_medicalinformatics@chuv.ch&#34;&gt;
+              Contact via email
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+        &lt;/ul&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;/div&gt;
+
+	&lt;article class=&#34;article&#34;&gt;
+		&lt;div class=&#34;wrapper&#34;&gt;
+			&lt;h1&gt;Development process &lt;/h1&gt;
+
+			
+
+&lt;h2 id=&#34;code-versioning-and-working-practice&#34;&gt;Code Versioning and Working Practice&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The code of the MIP is versioned into Github.&lt;/li&gt;
+&lt;li&gt;Each project should contain at least a master branch and a stable branch.&lt;/li&gt;
+&lt;li&gt;The stable branch should contain only strongly tested code that can be used in a production environment.&lt;/li&gt;
+&lt;li&gt;The master branch should contain the latest working features that needs to be strongly tested before being merged to the stable branch.&lt;/li&gt;
+&lt;li&gt;Each developer should create new branches (usually from the master branch) to implement new features and/or to fix bugs.&lt;/li&gt;
+&lt;li&gt;No one should directly commit changes into the stable or master branch. Once feature/bug-fix branch is working the branch can be merged into the master one.&lt;/li&gt;
+&lt;li&gt;For big changes, a merge request should be created and assigned to another developer.&lt;/li&gt;
+&lt;li&gt;AUTOMATION: The stable branch should never be updated manually. The CI system should look for changes in the master branch and automatically run some tests on it. If the automatic tests are successfully passed, the CI system will create a merge request from the master branch to the stable branch or automatically do the merge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;testing-unit-and-integration&#34;&gt;Testing (Unit and Integration)&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Each component should include unit tests which should be executed each time will build it.&lt;/li&gt;
+&lt;li&gt;Each built component (usually a Docker image) should also be tested with integration tests before being pushed on a repository (usually Docker Hub). These tests are needed by the CI system to decide whether a feature can be considered stable enough for the stable branch.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;docker-images-versioning&#34;&gt;Docker Images Versioning&lt;/h2&gt;
+
+&lt;p&gt;As Docker is a key technology in our platform, each Docker component we build should be versioned using a &amp;quot;Git commit hash&amp;quot; and pushed on Docker Hub (at &lt;a href=&#34;https://hub.docker.com/u/hbpmip/&#34;&gt;https://hub.docker.com/u/hbpmip/&lt;/a&gt;) or on our private Docker Registry server. In this way, we will always be able to retrieve the precise code (on GitLab) that was used to build an Docker image.&lt;/p&gt;
+
+&lt;p&gt;We also will be able to rollback or commit a new version of a component in a very easy way.&lt;/p&gt;
+
+&lt;h2 id=&#34;binaries-versioning&#34;&gt;Binaries Versioning&lt;/h2&gt;
+
+&lt;p&gt;As a few components like libraries should be built for &amp;quot;non-docker&amp;quot; use. These will be versioned and pushed on Artifactory.&lt;/p&gt;
+
+
+			&lt;aside class=&#34;copyright&#34; role=&#34;note&#34;&gt;
+				
+				&amp;copy; 2017 Released under the MIT license &amp;ndash;
+				
+				Documentation built with
+				&lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+				using the
+				&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt; theme.
+			&lt;/aside&gt;
+
+			&lt;footer class=&#34;footer&#34;&gt;
+				
+
+&lt;nav class=&#34;pagination&#34; aria-label=&#34;Footer&#34;&gt;
+  &lt;div class=&#34;previous&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/documentation/&#34; title=&#34;Documentation&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Previous
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;button button-previous&#34; role=&#34;button&#34; aria-label=&#34;Previous&#34;&gt;
+            &lt;i class=&#34;icon icon-back&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Documentation
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+
+  &lt;div class=&#34;next&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/software-catalog/&#34; title=&#34;Software Catalog&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Next
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Software Catalog
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;button button-next&#34; role=&#34;button&#34; aria-label=&#34;Next&#34;&gt;
+            &lt;i class=&#34;icon icon-forward&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+
+
+
+			&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;div class=&#34;results&#34; role=&#34;status&#34; aria-live=&#34;polite&#34;&gt;
+		&lt;div class=&#34;scrollable&#34;&gt;
+			&lt;div class=&#34;wrapper&#34;&gt;
+				&lt;div class=&#34;meta&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;list&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+    &lt;script&gt;
+    
+      var base_url = &#39;&#39;;
+      var repo_id  = &#39;&#39;;
+    
+    &lt;/script&gt;
+
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/application.js&#34;&gt;&lt;/script&gt;
+    
+
+    &lt;script&gt;
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName(&#34;h2&#34;);
+      var scrollspy = document.getElementById(&#39;scrollspy&#39;);
+
+      if(scrollspy) {
+        if(headers.length &gt; 0) {
+          for(var i = 0; i &lt; headers.length; i++) {
+            var li = document.createElement(&#34;li&#34;);
+            li.setAttribute(&#34;class&#34;, &#34;anchor&#34;);
+
+            var a  = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll(&#34;h1, h2, h3, h4, h5, h6&#34;);
+
+        for(var i = 0; i &lt; headers.length; i++) {
+            var a = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;class&#34;, &#34;headerlink&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, &#34;Permanent link&#34;)
+            a.innerHTML = &#34;#&#34;;
+            headers[i].appendChild(a);
+        }
+      }
+    &lt;/script&gt;
+
+    
+      &lt;script&gt;
+        (function(i,s,o,g,r,a,m){
+          i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          &#39;script&#39;, &#39;//www.google-analytics.com/analytics.js&#39;, &#39;ga&#39;);
+         
+        ga(&#39;create&#39;, &#39;UA-80660232-2&#39;, &#39;auto&#39;);
+        ga(&#39;set&#39;, &#39;anonymizeIp&#39;, true);
+        ga(&#39;send&#39;, &#39;pageview&#39;);
+         
+        var buttons = document.querySelectorAll(&#39;a&#39;);
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener(&#39;click&#39;, function() {
+              var action = item.getAttribute(&#39;data-action&#39;) || &#39;follow&#39;;
+              ga(&#39;send&#39;, &#39;event&#39;, &#39;outbound&#39;, action, item.href);
+            });
+          }
+        });
+         
+        var query = document.querySelector(&#39;.query&#39;);
+        query.addEventListener(&#39;blur&#39;, function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga(&#39;send&#39;, &#39;pageview&#39;, path + &#39;?q=&#39; + this.value);
+          }
+        });
+      &lt;/script&gt;
+    
+
+    &lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/documentation/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+  
+  
+  
+  
+   &lt;html class=&#34;no-js&#34;&gt; 
+
+  &lt;head lang=&#34;en-uk&#34;&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=10&#34; /&gt;
+    &lt;title&gt;Documentation - HBP SP8 repository&lt;/title&gt;
+    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.17&#34; /&gt;
+
+    
+    &lt;meta name=&#34;description&#34; content=&#34;SP8 subproject (Medical Informatics Platform) for the Human Brain Project.&#34;&gt;
+    
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+    
+    &lt;meta name=&#34;author&#34; content=&#34;HBP SP8 team&#34;&gt;
+    
+
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+    &lt;meta property=&#34;og:title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta property=&#34;og:image&#34; content=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-capable&#34; content=&#34;yes&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-status-bar-style&#34; content=&#34;black-translucent&#34;&gt;
+
+    &lt;link rel=&#34;shortcut icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+
+    &lt;style&gt;
+      @font-face {
+        font-family: &#39;Icon&#39;;
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;);
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;)
+               format(&#39;embedded-opentype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.woff&#39;)
+               format(&#39;woff&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.ttf&#39;)
+               format(&#39;truetype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.svg&#39;)
+               format(&#39;svg&#39;);
+        font-weight: normal;
+        font-style: normal;
+      }
+    &lt;/style&gt;
+
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/application.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/temporary.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/palettes.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/highlight/highlight.css&#34;&gt;
+
+    
+    
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&amp;#43;Mono&#34;&gt;
+    &lt;style&gt;
+      body, input {
+        font-family: &#39;Ubuntu&#39;, Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: &#39;Ubuntu Mono&#39;, &#39;Courier New&#39;, &#39;Courier&#39;, monospace;
+      }
+    &lt;/style&gt;
+
+    
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/modernizr.js&#34;&gt;&lt;/script&gt;
+
+    
+	&lt;script&gt;
+	  function resizeIframe(obj) {
+	  	obj.style.height = obj.contentWindow.document.body.scrollHeight + &#39;px&#39;;
+ 	  }
+	&lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body class=&#34;palette-primary-red palette-accent-teal&#34;&gt;
+
+
+
+
+&lt;div class=&#34;backdrop&#34;&gt;
+	&lt;div class=&#34;backdrop-paper&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-drawer&#34;&gt;
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-search&#34;&gt;
+&lt;label class=&#34;toggle-button overlay&#34; for=&#34;toggle-drawer&#34;&gt;&lt;/label&gt;
+
+&lt;header class=&#34;header&#34;&gt;
+	&lt;nav aria-label=&#34;Header&#34;&gt;
+  &lt;div class=&#34;bar default&#34;&gt;
+    &lt;div class=&#34;button button-menu&#34; role=&#34;button&#34; aria-label=&#34;Menu&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-menu&#34; for=&#34;toggle-drawer&#34;&gt;
+        &lt;span&gt;&lt;/span&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;
+        Documentation
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div class=&#34;button button-twitter&#34; role=&#34;button&#34; aria-label=&#34;Twitter&#34;&gt;
+       &lt;a href=&#34;https://twitter.com/HBPmedical&#34; title=&#34;@HBPmedical on Twitter&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-twitter&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;div class=&#34;button button-github&#34; role=&#34;button&#34; aria-label=&#34;GitHub&#34;&gt;
+      &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; title=&#34;@HBPSP8Repo on GitHub&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-github&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+    
+        
+  &lt;/div&gt;
+  &lt;div class=&#34;bar search&#34;&gt;
+    &lt;div class=&#34;button button-close&#34; role=&#34;button&#34; aria-label=&#34;Close&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-back&#34; for=&#34;toggle-search&#34;&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;field&#34;&gt;
+        &lt;input class=&#34;query&#34; type=&#34;text&#34; placeholder=&#34;Search&#34; autocapitalize=&#34;off&#34; autocorrect=&#34;off&#34; autocomplete=&#34;off&#34; spellcheck&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;button button-reset&#34; role=&#34;button&#34; aria-label=&#34;Search&#34;&gt;
+      &lt;button class=&#34;toggle-button icon icon-close&#34; id=&#34;reset-search&#34;&gt;&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;/header&gt;
+
+&lt;main class=&#34;main&#34;&gt;
+	&lt;div class=&#34;drawer&#34;&gt;
+		&lt;nav aria-label=&#34;Navigation&#34;&gt;
+  &lt;a href=&#34;https://github.com/HBPSP8Repo/HBPSP8Repo.github.io&#34; class=&#34;project&#34;&gt;
+    &lt;div class=&#34;banner&#34;&gt;
+      
+        &lt;div class=&#34;logo&#34;&gt;
+          &lt;img src=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+        &lt;/div&gt;
+      
+      &lt;div class=&#34;name&#34;&gt;
+        &lt;strong&gt;HBP SP8 repository &lt;/strong&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+  &lt;div class=&#34;scrollable&#34;&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      
+
+      &lt;div class=&#34;toc&#34;&gt;
+        
+        &lt;ul&gt;
+          
+
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;HBP SP8&#34; href=&#34;https://hbpmedical.github.io/&#34;&gt;
+	
+	HBP SP8
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a class=&#34;current&#34; title=&#34;Documentation&#34; href=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+	
+	Documentation
+&lt;/a&gt;
+
+
+&lt;ul id=&#34;scrollspy&#34;&gt;
+&lt;/ul&gt;
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Development Process&#34; href=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+	
+	Development Process
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Software Catalog&#34; href=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+	
+	Software Catalog
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Technology stack&#34; href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+	
+	Technology stack
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Release notes&#34; href=&#34;https://hbpmedical.github.io/release-notes&#34;&gt;
+	
+	Release notes
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+        &lt;/ul&gt;
+        
+
+        
+        &lt;hr&gt;
+        &lt;span class=&#34;section&#34;&gt;The author&lt;/span&gt;
+        
+        &lt;ul&gt;
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://twitter.com/HBPmedical&#34; target=&#34;_blank&#34; title=&#34;@HBPmedical on Twitter&#34;&gt;
+              @HBPmedical on Twitter
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; target=&#34;_blank&#34; title=&#34;@HBPSP8Repo on GitHub&#34;&gt;
+              @HBPSP8Repo on GitHub
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;mailto:hbp_medicalinformatics@chuv.ch&#34; title=&#34;Email of hbp_medicalinformatics@chuv.ch&#34;&gt;
+              Contact via email
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+        &lt;/ul&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;/div&gt;
+
+	&lt;article class=&#34;article&#34;&gt;
+		&lt;div class=&#34;wrapper&#34;&gt;
+			&lt;h1&gt;Documentation &lt;/h1&gt;
+
+			&lt;h2 id=&#34;user_guide&#34;&gt;User Guide&lt;/h2&gt;
+			You can find the detailed user guide at the following &lt;a href=&#34;https://hbpmedical.github.io/documentation/HBP_SP8_UserGuide_latest.pdf&#34;&gt;link&lt;/a&gt;
+			&lt;h2 id=&#34;mip_tools&#34;&gt;MIP tools&lt;/h2&gt;
+			The complete list of MIP tools is available &lt;a href=&#34;http://193.204.145.80/hbp_doc/mip_tools.docx&#34;&gt;here&lt;/a&gt;.
+			&lt;h2 id=&#34;mip_variables&#34;&gt;MIP Variables&lt;/h2&gt;
+			&lt;iframe style=&#34;width:90%; height:350px;&#34; src=&#34;http://193.204.145.80/hbp_doc/mip_variables.php&#34;&gt;FUG :DDDDDD&lt;/iframe&gt;
+			&lt;p&gt;&lt;/p&gt;
+			&lt;br /&gt;
+			&lt;h1 align=&#34;left&#34;&gt;Technical Documentation&lt;/h1&gt;
+
+			&lt;p&gt;&lt;h2 id=&#34;mip_services&#34;&gt;MIP services&lt;/h2&gt;&lt;/p&gt;
+			You can find the full list of MIP services &lt;a href=&#34;http://193.204.145.80/hbp_doc/mip_services.docx&#34;&gt;here&lt;/a&gt;.
+			&lt;p&gt;&lt;h2 id=&#34;hospitals_info&#34;&gt;Hospitals Information System Database&lt;/h2&gt;&lt;/p&gt;
+			&lt;img style=&#34;width:320px; height:300px;&#34; src=&#34;../images/Work_In_Progress.png&#34; alt=&#34;Work In Progress&#34;&gt;&lt;/img&gt;
+			&lt;p&gt;&lt;/p&gt;
+			&lt;br /&gt;
+			&lt;h1 align=&#34;left&#34;&gt;Useful Links&lt;/h1&gt;
+
+			&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
+			&lt;h3&gt;MIP in a Nutshell&lt;/h3&gt;
+			&lt;p&gt;&lt;iframe width=&#34;90%&#34; height=&#34;400px&#34; src=&#34;https://www.youtube.com/embed/ZcWBKMq487c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+			&lt;p&gt;
+			&lt;ul&gt;
+				&lt;li&gt;New machine learning techniques and algorithms : k-nearest neighbor, Gaussian Process Regression, SVM, Random Forest
+				&lt;li&gt;Experiments: user can create Experiments on existing models (own or shared), configure and apply cross-validation partitions, run the Experiments to view results, save the Experiments and optionally share them with the MIP Community&lt;/li&gt;
+				&lt;li&gt;Integration of Experiments into existing MIP functionality (My Data, My Community, Article writting, Biological Signatures of Diseases) - i.e. visualise experiments and their running status, see related experiments (based on same model), include experiment results when writing articles&lt;/li&gt;
+				&lt;li&gt;Apps section revamped (style improved + voting) (please note that the Apps section is still in the incipient phase and further work will be engaged to improve it)&lt;/li&gt;
+				&lt;li&gt;Epidemiological Exploration : user may now select a whole group of variables for configuration and creation of Models&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;/p&gt;
+			&lt;h3&gt;First public release of the MIP (March 2016)&lt;/h3&gt;
+			&lt;p&gt;The MIP was publicly released on 31st March 2016 along with the other platforms of the Human Brain Project. The video below features all platforms, while the part dedicated to the MIP is to be seen between 1:45:00 and 2:00:00&lt;/p&gt;
+			&lt;iframe width=&#34;90%&#34; height=&#34;390&#34; src=&#34;https://www.youtube.com/embed/2XXz2quUWFQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+			&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+			&lt;iframe src=&#34;http://193.204.145.80/hbp_doc/quiz.php&#34; style=&#34;width:90%; height:620px;&#34;&gt;FUG :DDDDDD&lt;/iframe&gt;
+			&lt;h2 id=&#34;feedback_help&#34;&gt;Feedback &amp; Help&lt;/h2&gt;
+			&lt;iframe src=&#34;http://193.204.145.80/hbp_doc/feedback_help.php&#34; style=&#34;width:90%; height:360px;&#34;&gt;FUG :DDDDDD&lt;/iframe&gt;
+		
+			&lt;aside class=&#34;copyright&#34; role=&#34;note&#34;&gt;
+				
+				&amp;copy; 2017 Released under the MIT license &amp;ndash;
+				
+				Documentation built with
+				&lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+				using the
+				&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt; theme.
+			&lt;/aside&gt;
+
+			&lt;footer class=&#34;footer&#34;&gt;
+				
+
+&lt;nav class=&#34;pagination&#34; aria-label=&#34;Footer&#34;&gt;
+  &lt;div class=&#34;previous&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/&#34; title=&#34;HBP SP8 repository&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Previous
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;button button-previous&#34; role=&#34;button&#34; aria-label=&#34;Previous&#34;&gt;
+            &lt;i class=&#34;icon icon-back&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              HBP SP8 repository
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+
+  &lt;div class=&#34;next&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/development-process/&#34; title=&#34;Development process&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Next
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Development process
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;button button-next&#34; role=&#34;button&#34; aria-label=&#34;Next&#34;&gt;
+            &lt;i class=&#34;icon icon-forward&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+
+
+
+			&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;div class=&#34;results&#34; role=&#34;status&#34; aria-live=&#34;polite&#34;&gt;
+		&lt;div class=&#34;scrollable&#34;&gt;
+			&lt;div class=&#34;wrapper&#34;&gt;
+				&lt;div class=&#34;meta&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;list&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+    &lt;script&gt;
+    
+      var base_url = &#39;&#39;;
+      var repo_id  = &#39;&#39;;
+    
+    &lt;/script&gt;
+
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/application.js&#34;&gt;&lt;/script&gt;
+    
+
+    &lt;script&gt;
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName(&#34;h2&#34;);
+      var scrollspy = document.getElementById(&#39;scrollspy&#39;);
+
+      if(scrollspy) {
+        if(headers.length &gt; 0) {
+          for(var i = 0; i &lt; headers.length; i++) {
+            var li = document.createElement(&#34;li&#34;);
+            li.setAttribute(&#34;class&#34;, &#34;anchor&#34;);
+
+            var a  = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll(&#34;h1, h2, h3, h4, h5, h6&#34;);
+
+        for(var i = 0; i &lt; headers.length; i++) {
+            var a = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;class&#34;, &#34;headerlink&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, &#34;Permanent link&#34;)
+            a.innerHTML = &#34;#&#34;;
+            headers[i].appendChild(a);
+        }
+      }
+    &lt;/script&gt;
+
+    
+      &lt;script&gt;
+        (function(i,s,o,g,r,a,m){
+          i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          &#39;script&#39;, &#39;//www.google-analytics.com/analytics.js&#39;, &#39;ga&#39;);
+         
+        ga(&#39;create&#39;, &#39;UA-80660232-2&#39;, &#39;auto&#39;);
+        ga(&#39;set&#39;, &#39;anonymizeIp&#39;, true);
+        ga(&#39;send&#39;, &#39;pageview&#39;);
+         
+        var buttons = document.querySelectorAll(&#39;a&#39;);
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener(&#39;click&#39;, function() {
+              var action = item.getAttribute(&#39;data-action&#39;) || &#39;follow&#39;;
+              ga(&#39;send&#39;, &#39;event&#39;, &#39;outbound&#39;, action, item.href);
+            });
+          }
+        });
+         
+        var query = document.querySelector(&#39;.query&#39;);
+        query.addEventListener(&#39;blur&#39;, function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga(&#39;send&#39;, &#39;pageview&#39;, path + &#39;?q=&#39; + this.value);
+          }
+        });
+      &lt;/script&gt;
+    
+
+    &lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/software-catalog/stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software-catalog/stack/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+  
+  
+  
+  
+   &lt;html class=&#34;no-js&#34;&gt; 
+
+  &lt;head lang=&#34;en-uk&#34;&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=10&#34; /&gt;
+    &lt;title&gt;Technology stack - HBP SP8 repository&lt;/title&gt;
+    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.17&#34; /&gt;
+
+    
+    &lt;meta name=&#34;description&#34; content=&#34;SP8 subproject (Medical Informatics Platform) for the Human Brain Project.&#34;&gt;
+    
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+    
+    &lt;meta name=&#34;author&#34; content=&#34;HBP SP8 team&#34;&gt;
+    
+
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+    &lt;meta property=&#34;og:title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta property=&#34;og:image&#34; content=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-capable&#34; content=&#34;yes&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-status-bar-style&#34; content=&#34;black-translucent&#34;&gt;
+
+    &lt;link rel=&#34;shortcut icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+
+    &lt;style&gt;
+      @font-face {
+        font-family: &#39;Icon&#39;;
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;);
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;)
+               format(&#39;embedded-opentype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.woff&#39;)
+               format(&#39;woff&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.ttf&#39;)
+               format(&#39;truetype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.svg&#39;)
+               format(&#39;svg&#39;);
+        font-weight: normal;
+        font-style: normal;
+      }
+    &lt;/style&gt;
+
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/application.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/temporary.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/palettes.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/highlight/highlight.css&#34;&gt;
+
+    
+    
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&amp;#43;Mono&#34;&gt;
+    &lt;style&gt;
+      body, input {
+        font-family: &#39;Ubuntu&#39;, Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: &#39;Ubuntu Mono&#39;, &#39;Courier New&#39;, &#39;Courier&#39;, monospace;
+      }
+    &lt;/style&gt;
+
+    
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/modernizr.js&#34;&gt;&lt;/script&gt;
+
+    
+
+  &lt;/head&gt;
+  &lt;body class=&#34;palette-primary-red palette-accent-teal&#34;&gt;
+
+
+
+
+&lt;div class=&#34;backdrop&#34;&gt;
+	&lt;div class=&#34;backdrop-paper&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-drawer&#34;&gt;
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-search&#34;&gt;
+&lt;label class=&#34;toggle-button overlay&#34; for=&#34;toggle-drawer&#34;&gt;&lt;/label&gt;
+
+&lt;header class=&#34;header&#34;&gt;
+	&lt;nav aria-label=&#34;Header&#34;&gt;
+  &lt;div class=&#34;bar default&#34;&gt;
+    &lt;div class=&#34;button button-menu&#34; role=&#34;button&#34; aria-label=&#34;Menu&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-menu&#34; for=&#34;toggle-drawer&#34;&gt;
+        &lt;span&gt;&lt;/span&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;
+        Technology stack
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div class=&#34;button button-twitter&#34; role=&#34;button&#34; aria-label=&#34;Twitter&#34;&gt;
+       &lt;a href=&#34;https://twitter.com/HBPmedical&#34; title=&#34;@HBPmedical on Twitter&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-twitter&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;div class=&#34;button button-github&#34; role=&#34;button&#34; aria-label=&#34;GitHub&#34;&gt;
+      &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; title=&#34;@HBPSP8Repo on GitHub&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-github&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+    
+        
+  &lt;/div&gt;
+  &lt;div class=&#34;bar search&#34;&gt;
+    &lt;div class=&#34;button button-close&#34; role=&#34;button&#34; aria-label=&#34;Close&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-back&#34; for=&#34;toggle-search&#34;&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;field&#34;&gt;
+        &lt;input class=&#34;query&#34; type=&#34;text&#34; placeholder=&#34;Search&#34; autocapitalize=&#34;off&#34; autocorrect=&#34;off&#34; autocomplete=&#34;off&#34; spellcheck&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;button button-reset&#34; role=&#34;button&#34; aria-label=&#34;Search&#34;&gt;
+      &lt;button class=&#34;toggle-button icon icon-close&#34; id=&#34;reset-search&#34;&gt;&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;/header&gt;
+
+&lt;main class=&#34;main&#34;&gt;
+	&lt;div class=&#34;drawer&#34;&gt;
+		&lt;nav aria-label=&#34;Navigation&#34;&gt;
+  &lt;a href=&#34;https://github.com/HBPSP8Repo/HBPSP8Repo.github.io&#34; class=&#34;project&#34;&gt;
+    &lt;div class=&#34;banner&#34;&gt;
+      
+        &lt;div class=&#34;logo&#34;&gt;
+          &lt;img src=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+        &lt;/div&gt;
+      
+      &lt;div class=&#34;name&#34;&gt;
+        &lt;strong&gt;HBP SP8 repository &lt;/strong&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+  &lt;div class=&#34;scrollable&#34;&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      
+
+      &lt;div class=&#34;toc&#34;&gt;
+        
+        &lt;ul&gt;
+          
+
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;HBP SP8&#34; href=&#34;https://hbpmedical.github.io/&#34;&gt;
+	
+	HBP SP8
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Documentation&#34; href=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+	
+	Documentation
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Development Process&#34; href=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+	
+	Development Process
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Software Catalog&#34; href=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+	
+	Software Catalog
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a class=&#34;current&#34; title=&#34;Technology stack&#34; href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+	
+	Technology stack
+&lt;/a&gt;
+
+
+&lt;ul id=&#34;scrollspy&#34;&gt;
+&lt;/ul&gt;
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Release notes&#34; href=&#34;https://hbpmedical.github.io/release-notes&#34;&gt;
+	
+	Release notes
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+        &lt;/ul&gt;
+        
+
+        
+        &lt;hr&gt;
+        &lt;span class=&#34;section&#34;&gt;The author&lt;/span&gt;
+        
+        &lt;ul&gt;
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://twitter.com/HBPmedical&#34; target=&#34;_blank&#34; title=&#34;@HBPmedical on Twitter&#34;&gt;
+              @HBPmedical on Twitter
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; target=&#34;_blank&#34; title=&#34;@HBPSP8Repo on GitHub&#34;&gt;
+              @HBPSP8Repo on GitHub
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;mailto:hbp_medicalinformatics@chuv.ch&#34; title=&#34;Email of hbp_medicalinformatics@chuv.ch&#34;&gt;
+              Contact via email
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+        &lt;/ul&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;/div&gt;
+
+	&lt;article class=&#34;article&#34;&gt;
+		&lt;div class=&#34;wrapper&#34;&gt;
+			&lt;h1&gt;Technology stack &lt;/h1&gt;
+
+			&lt;p&gt;&lt;a frameborder=&#34;0&#34; data-theme=&#34;light&#34; data-layers=&#34;1,2,3,4&#34; data-stack-embed=&#34;true&#34; href=&#34;https://embed.stackshare.io/stacks/embed/3173d1e0d8e7c0&#34;/&gt;&lt;/a&gt;
+&lt;script async src=&#34;https://cdn1.stackshare.io/javascripts/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+
+			&lt;aside class=&#34;copyright&#34; role=&#34;note&#34;&gt;
+				
+				&amp;copy; 2017 Released under the MIT license &amp;ndash;
+				
+				Documentation built with
+				&lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+				using the
+				&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt; theme.
+			&lt;/aside&gt;
+
+			&lt;footer class=&#34;footer&#34;&gt;
+				
+
+&lt;nav class=&#34;pagination&#34; aria-label=&#34;Footer&#34;&gt;
+  &lt;div class=&#34;previous&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/software-catalog/&#34; title=&#34;Software Catalog&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Previous
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;button button-previous&#34; role=&#34;button&#34; aria-label=&#34;Previous&#34;&gt;
+            &lt;i class=&#34;icon icon-back&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Software Catalog
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+
+  &lt;div class=&#34;next&#34;&gt;
+  
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+
+
+
+			&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;div class=&#34;results&#34; role=&#34;status&#34; aria-live=&#34;polite&#34;&gt;
+		&lt;div class=&#34;scrollable&#34;&gt;
+			&lt;div class=&#34;wrapper&#34;&gt;
+				&lt;div class=&#34;meta&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;list&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+    &lt;script&gt;
+    
+      var base_url = &#39;&#39;;
+      var repo_id  = &#39;&#39;;
+    
+    &lt;/script&gt;
+
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/application.js&#34;&gt;&lt;/script&gt;
+    
+
+    &lt;script&gt;
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName(&#34;h2&#34;);
+      var scrollspy = document.getElementById(&#39;scrollspy&#39;);
+
+      if(scrollspy) {
+        if(headers.length &gt; 0) {
+          for(var i = 0; i &lt; headers.length; i++) {
+            var li = document.createElement(&#34;li&#34;);
+            li.setAttribute(&#34;class&#34;, &#34;anchor&#34;);
+
+            var a  = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll(&#34;h1, h2, h3, h4, h5, h6&#34;);
+
+        for(var i = 0; i &lt; headers.length; i++) {
+            var a = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;class&#34;, &#34;headerlink&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, &#34;Permanent link&#34;)
+            a.innerHTML = &#34;#&#34;;
+            headers[i].appendChild(a);
+        }
+      }
+    &lt;/script&gt;
+
+    
+      &lt;script&gt;
+        (function(i,s,o,g,r,a,m){
+          i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          &#39;script&#39;, &#39;//www.google-analytics.com/analytics.js&#39;, &#39;ga&#39;);
+         
+        ga(&#39;create&#39;, &#39;UA-80660232-2&#39;, &#39;auto&#39;);
+        ga(&#39;set&#39;, &#39;anonymizeIp&#39;, true);
+        ga(&#39;send&#39;, &#39;pageview&#39;);
+         
+        var buttons = document.querySelectorAll(&#39;a&#39;);
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener(&#39;click&#39;, function() {
+              var action = item.getAttribute(&#39;data-action&#39;) || &#39;follow&#39;;
+              ga(&#39;send&#39;, &#39;event&#39;, &#39;outbound&#39;, action, item.href);
+            });
+          }
+        });
+         
+        var query = document.querySelector(&#39;.query&#39;);
+        query.addEventListener(&#39;blur&#39;, function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga(&#39;send&#39;, &#39;pageview&#39;, path + &#39;?q=&#39; + this.value);
+          }
+        });
+      &lt;/script&gt;
+    
+
+    &lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/software-catalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software-catalog/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+  
+  
+  
+  
+   &lt;html class=&#34;no-js&#34;&gt; 
+
+  &lt;head lang=&#34;en-uk&#34;&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=10&#34; /&gt;
+    &lt;title&gt;Software Catalog - HBP SP8 repository&lt;/title&gt;
+    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.17&#34; /&gt;
+
+    
+    &lt;meta name=&#34;description&#34; content=&#34;SP8 subproject (Medical Informatics Platform) for the Human Brain Project.&#34;&gt;
+    
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+    
+    &lt;meta name=&#34;author&#34; content=&#34;HBP SP8 team&#34;&gt;
+    
+
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+    &lt;meta property=&#34;og:title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta property=&#34;og:image&#34; content=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-capable&#34; content=&#34;yes&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-status-bar-style&#34; content=&#34;black-translucent&#34;&gt;
+
+    &lt;link rel=&#34;shortcut icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+
+    &lt;style&gt;
+      @font-face {
+        font-family: &#39;Icon&#39;;
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;);
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;)
+               format(&#39;embedded-opentype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.woff&#39;)
+               format(&#39;woff&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.ttf&#39;)
+               format(&#39;truetype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.svg&#39;)
+               format(&#39;svg&#39;);
+        font-weight: normal;
+        font-style: normal;
+      }
+    &lt;/style&gt;
+
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/application.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/temporary.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/palettes.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/highlight/highlight.css&#34;&gt;
+
+    
+    
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&amp;#43;Mono&#34;&gt;
+    &lt;style&gt;
+      body, input {
+        font-family: &#39;Ubuntu&#39;, Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: &#39;Ubuntu Mono&#39;, &#39;Courier New&#39;, &#39;Courier&#39;, monospace;
+      }
+    &lt;/style&gt;
+
+    
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/modernizr.js&#34;&gt;&lt;/script&gt;
+
+    
+
+  &lt;/head&gt;
+  &lt;body class=&#34;palette-primary-red palette-accent-teal&#34;&gt;
+
+
+
+
+&lt;div class=&#34;backdrop&#34;&gt;
+	&lt;div class=&#34;backdrop-paper&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-drawer&#34;&gt;
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-search&#34;&gt;
+&lt;label class=&#34;toggle-button overlay&#34; for=&#34;toggle-drawer&#34;&gt;&lt;/label&gt;
+
+&lt;header class=&#34;header&#34;&gt;
+	&lt;nav aria-label=&#34;Header&#34;&gt;
+  &lt;div class=&#34;bar default&#34;&gt;
+    &lt;div class=&#34;button button-menu&#34; role=&#34;button&#34; aria-label=&#34;Menu&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-menu&#34; for=&#34;toggle-drawer&#34;&gt;
+        &lt;span&gt;&lt;/span&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;
+        Software Catalog
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div class=&#34;button button-twitter&#34; role=&#34;button&#34; aria-label=&#34;Twitter&#34;&gt;
+       &lt;a href=&#34;https://twitter.com/HBPmedical&#34; title=&#34;@HBPmedical on Twitter&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-twitter&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;div class=&#34;button button-github&#34; role=&#34;button&#34; aria-label=&#34;GitHub&#34;&gt;
+      &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; title=&#34;@HBPSP8Repo on GitHub&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-github&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+    
+        
+  &lt;/div&gt;
+  &lt;div class=&#34;bar search&#34;&gt;
+    &lt;div class=&#34;button button-close&#34; role=&#34;button&#34; aria-label=&#34;Close&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-back&#34; for=&#34;toggle-search&#34;&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;field&#34;&gt;
+        &lt;input class=&#34;query&#34; type=&#34;text&#34; placeholder=&#34;Search&#34; autocapitalize=&#34;off&#34; autocorrect=&#34;off&#34; autocomplete=&#34;off&#34; spellcheck&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;button button-reset&#34; role=&#34;button&#34; aria-label=&#34;Search&#34;&gt;
+      &lt;button class=&#34;toggle-button icon icon-close&#34; id=&#34;reset-search&#34;&gt;&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;/header&gt;
+
+&lt;main class=&#34;main&#34;&gt;
+	&lt;div class=&#34;drawer&#34;&gt;
+		&lt;nav aria-label=&#34;Navigation&#34;&gt;
+  &lt;a href=&#34;https://github.com/HBPSP8Repo/HBPSP8Repo.github.io&#34; class=&#34;project&#34;&gt;
+    &lt;div class=&#34;banner&#34;&gt;
+      
+        &lt;div class=&#34;logo&#34;&gt;
+          &lt;img src=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+        &lt;/div&gt;
+      
+      &lt;div class=&#34;name&#34;&gt;
+        &lt;strong&gt;HBP SP8 repository &lt;/strong&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+  &lt;div class=&#34;scrollable&#34;&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      
+
+      &lt;div class=&#34;toc&#34;&gt;
+        
+        &lt;ul&gt;
+          
+
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;HBP SP8&#34; href=&#34;https://hbpmedical.github.io/&#34;&gt;
+	
+	HBP SP8
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Documentation&#34; href=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+	
+	Documentation
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Development Process&#34; href=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+	
+	Development Process
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a class=&#34;current&#34; title=&#34;Software Catalog&#34; href=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+	
+	Software Catalog
+&lt;/a&gt;
+
+
+&lt;ul id=&#34;scrollspy&#34;&gt;
+&lt;/ul&gt;
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Technology stack&#34; href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+	
+	Technology stack
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Release notes&#34; href=&#34;https://hbpmedical.github.io/release-notes&#34;&gt;
+	
+	Release notes
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+        &lt;/ul&gt;
+        
+
+        
+        &lt;hr&gt;
+        &lt;span class=&#34;section&#34;&gt;The author&lt;/span&gt;
+        
+        &lt;ul&gt;
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://twitter.com/HBPmedical&#34; target=&#34;_blank&#34; title=&#34;@HBPmedical on Twitter&#34;&gt;
+              @HBPmedical on Twitter
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; target=&#34;_blank&#34; title=&#34;@HBPSP8Repo on GitHub&#34;&gt;
+              @HBPSP8Repo on GitHub
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;mailto:hbp_medicalinformatics@chuv.ch&#34; title=&#34;Email of hbp_medicalinformatics@chuv.ch&#34;&gt;
+              Contact via email
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+        &lt;/ul&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;/div&gt;
+
+	&lt;article class=&#34;article&#34;&gt;
+		&lt;div class=&#34;wrapper&#34;&gt;
+			&lt;h1&gt;Software Catalog &lt;/h1&gt;
+
+			
+
+&lt;p&gt;This catalog attempts to collect all open-source software produced for the Medical Informatics Platform.&lt;/p&gt;
+
+&lt;p&gt;It should contain all publicly accessible software for the phase SGA1 month 6.&lt;/p&gt;
+
+&lt;h2 id=&#34;open-source-software&#34;&gt;Open source software&lt;/h2&gt;
+
+&lt;h3 id=&#34;infrastructure&#34;&gt;Infrastructure&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://trello.com/b/h66fm9Ad/components-research-infrastructure&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-components-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://trello.com/b/droxZvFT/plans-research-infrastructure&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-planning-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Deployment&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-microservices-infrastructure&#34;&gt;mip-microservices-infrastructure&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://waffle.io/LREN-CHUV/mip-microservices-infrastructure&#34;&gt;&lt;img src=&#34;https://badge.waffle.io/LREN-CHUV/mip-microservices-infrastructure.png?label=ready&amp;amp;title=stories%20ready&#34; alt=&#34;Stories in Ready&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://waffle.io/LREN-CHUV/mip-microservices-infrastructure&#34;&gt;&lt;img src=&#34;https://badge.waffle.io/LREN-CHUV/mip-microservices-infrastructure.png?label=in+progress&amp;amp;title=stories%20in%20progress&#34; alt=&#34;Stories in In Progress&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mip-microservices-infrastructure/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mip-microservices-infrastructure/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/dev-setup&#34;&gt;dev-setup&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/dev-setup/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://trello.com/b/4lsExdnC/components-development-tools&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-development--tools-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/dev-setup&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/dev-setup.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/ansible-airflow&#34;&gt;ansible-airflow&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/ansible-airflow/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/ansible-airflow&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/ansible-airflow.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://app.wercker.com/project/byKey/9bab59ff38cd2dbf9f5ef1949fa75692&#34;&gt;&lt;img src=&#34;https://app.wercker.com/status/9bab59ff38cd2dbf9f5ef1949fa75692/s/master&#34; alt=&#34;wercker status&#34; title=&#34;wercker status&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/docker-flyway&#34;&gt;docker-flyway&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/docker-flyway/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/xnat-docker&#34;&gt;xnat-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/xnat-docker/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/labkey-docker&#34;&gt;labkey-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/labkey-docker/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap-docker&#34;&gt;MIPMap-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/WebMIPMap-docker&#34;&gt;WebMIPMap-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-docker&#34;&gt;PostgresRAW-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-UI-docker&#34;&gt;PostgresRAW-UI-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/RAW-deploy&#34;&gt;RAW-deploy&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;web-portal-exploration-and-analytics-scientific-applications&#34;&gt;Web Portal, exploration and analytics, scientific applications&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://trello.com/b/lr3NS4W6/plans-web-front-end&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-planning-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Portal&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/portal-specs&#34;&gt;portal-specs&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/portal-backend&#34;&gt;portal-backend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/portal-backend?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/portal-backend&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/087c83d0601a46c7a4dd91f2e5935a5a&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/portal-frontend&#34;&gt;portal-frontend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://trello.com/b/lr3NS4W6/dev-web-front-end&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-web--frontend-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/bootstrap-mip-app&#34;&gt;bootstrap-mip-app&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/bootstrap-mip-app/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/sunburst&#34;&gt;sunburst&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/sunburst/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model of disease&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/gene-expression&#34;&gt;gene-expression&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/gene-expression/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/2d-biological-rules&#34;&gt;2d-biological-rules&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/2d-biological-rules/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;algorithm-factory&#34;&gt;Algorithm factory&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://trello.com/b/cyfEfKE1/components-algorithms-factory&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-components-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://trello.com/b/DZPzFjkc/brainstorm-algorithm-factory&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-brainstorming-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Algorithm Factory&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken&#34;&gt;woken&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/base-docker-images&#34;&gt;base-docker-images&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/functions-repository&#34;&gt;functions-repository&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/sample-datasets-db&#34;&gt;sample-datasets-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/sample-datasets-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/exareme&#34;&gt;Exareme&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/exareme/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;data-factory&#34;&gt;Data Factory&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://trello.com/b/Jds1UVM8/components-data-factory&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-components-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://trello.com/b/cpWUxi2U/brainstorm-data-factory&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-brainstorming-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://trello.com/b/HKabY13b/plans-data-factory&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-planning-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Data Factory&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-extract&#34;&gt;mri-meta-extract&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-extract/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/mri-meta-extract?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/mri-meta-extract&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/4547fb5d1e464e4087640e046893576a&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-extract&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-extract.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-db&#34;&gt;mri-meta-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mri-meta-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/mri-meta-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/mri-meta-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-preprocessing-pipeline&#34;&gt;mri-preprocessing-pipeline&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-preprocessing-pipeline/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/airflow-imaging-plugins&#34;&gt;airflow-imaging-plugins&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/airflow-imaging-plugins/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/hbp-mip/airflow-imaging-plugins?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/airflow-imaging-plugins&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/7a9c796392e4420495ee1fabd0fce9ae&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://landscape.io/github/LREN-CHUV/airflow-imaging-plugins/master&#34;&gt;&lt;img src=&#34;https://landscape.io/github/LREN-CHUV/airflow-imaging-plugins/master/landscape.svg?style=flat&#34; alt=&#34;Code Health&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/airflow-mri-preprocessing-dags&#34;&gt;airflow-mri-preprocessing-dags&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/airflow-mri-preprocessing-dags/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/hbp-mip/airflow-mri-preprocessing-dags?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/airflow-mri-preprocessing-dags&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/8c5c9dc3cfb8492f870369c973f3cc8c&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://landscape.io/github/LREN-CHUV/airflow-mri-preprocessing-dags/master&#34;&gt;&lt;img src=&#34;https://landscape.io/github/LREN-CHUV/airflow-mri-preprocessing-dags/master/landscape.svg?style=flat&#34; alt=&#34;Code Health&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;algorithm-library&#34;&gt;Algorithm Library&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Algorithm Library&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.fil.ion.ucl.ac.uk/~john/LabelProp/&#34;&gt;Label Propagation Framework&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.fil.ion.ucl.ac.uk/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UCL-Wellcome%20Trust-F6C100.svg&#34; alt=&#34;UCL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-algorithms&#34;&gt;Exareme mip-algorithms&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-algorithms/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbpjdbcconnect&#34;&gt;hbpjdbcconnect&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbplregress&#34;&gt;hbplregress&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbpsummarystats&#34;&gt;hbpsummarystats&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/CCC&#34;&gt;CCC&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://ictaf.tau.ac.il/index.asp?lang=eng&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/TAU-ICTAF-AD2C32.svg&#34; alt=&#34;TAU&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/CCC/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/jsi-functions&#34;&gt;jsi-functions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://kt.ijs.si/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/JSI-KT-CCDDEE.svg&#34; alt=&#34;JSI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/bhtsne&#34;&gt;bhtsne&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.lumc.nl/org/radiologie/research/87377/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LUMC-LKEB-99CBE7.svg&#34; alt=&#34;LUMC&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/btsne/blob/master/LICENSE.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne&#34;&gt;Rtsne&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.lumc.nl/org/radiologie/research/87377/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LUMC-LKEB-99CBE7.svg&#34; alt=&#34;LUMC&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD--3--clause-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;hospital-database-bundle&#34;&gt;Hospital Database Bundle&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hospital database Bundle&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Planning&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap&#34;&gt;MIPMap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,WebMIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPSP8Repo/WebMIPMap&#34;&gt;WebMIPMap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/WebMIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMapRew&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMapRew&#34;&gt;MIPMapRew&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW&#34;&gt;PostgresRAW&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW/blob/master/PostgresRaw/COPYRIGHT_DIAS&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-UI&#34;&gt;PostgresRAW-UI&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-UI/blob/master/sniff_server/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/JDBCValidator&#34;&gt;JDBCValidator&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/JDBCValidator/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;docker-images&#34;&gt;Docker images&lt;/h2&gt;
+
+&lt;p&gt;The Organisation and License column below refer to the docker image packaging. For the software contained in the images, please refer to the tables above.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Docker image&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Build status&lt;/th&gt;
+&lt;th&gt;Image version&lt;/th&gt;
+&lt;th&gt;Image layers&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/flyway/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-lren%2Fflyway-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/docker-flyway/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/docker-flyway/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/docker-flyway/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/flyway/tags&#34; title=&#34;lren/flyway image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/flyway.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/flyway&#34; title=&#34;lren/flyway on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/flyway.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/xnat/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-lren%2Fxnat-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://xnat.org/download/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/xnat-docker/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/xnat-docker/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/xnat/tags&#34; title=&#34;lren/xnat image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/xnat.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/xnat&#34; title=&#34;lren/xnat on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/xnat.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/labkey/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-lren%2Flabkey-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/labkey-docker/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/labkey/tags&#34; title=&#34;lren/labkey image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/labkey.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/labkey&#34; title=&#34;lren/labkey on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/labkey.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/woken/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fwoken-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/woken/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/woken/tags&#34; title=&#34;hbpmip/woken image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/woken.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/woken&#34; title=&#34;hbpmip/woken on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/woken.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-backend/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fportal--backend-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-backend/tags&#34; title=&#34;hbpmip/portal-backend image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/portal-backend.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/portal-backend&#34; title=&#34;hbpmip/portal-backend on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/portal-backend.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-frontend/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fportal--frontend-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-frontend/tags&#34; title=&#34;hbpmip/portal-frontend image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/portal-frontend.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/portal-frontend&#34; title=&#34;hbpmip/portal-frontend on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/portal-frontend.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/mipmap/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fmipmap-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/mipmap/tags&#34; title=&#34;hbpmip/mipmap image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/mipmap.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/mipmap&#34; title=&#34;hbpmip/mipmap on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/mipmap.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/webmipmap/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fwebmipmap-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/webmipmap/tags&#34; title=&#34;hbpmip/webmipmap image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/webmipmap.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/webmipmap&#34; title=&#34;hbpmip/webmipmap on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/webmipmap.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fpostgresraw-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw/tags&#34; title=&#34;hbpmip/postgresraw image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/postgresraw.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/postgresraw&#34; title=&#34;hbpmip/postgresraw on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/postgresraw.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw-ui/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fpostgresraw--ui-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw-ui/tags&#34; title=&#34;hbpmip/postgresraw-ui image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/postgresraw-ui.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/postgresraw-ui&#34; title=&#34;hbpmip/postgresraw-ui on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/postgresraw-ui.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+			&lt;aside class=&#34;copyright&#34; role=&#34;note&#34;&gt;
+				
+				&amp;copy; 2017 Released under the MIT license &amp;ndash;
+				
+				Documentation built with
+				&lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+				using the
+				&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt; theme.
+			&lt;/aside&gt;
+
+			&lt;footer class=&#34;footer&#34;&gt;
+				
+
+&lt;nav class=&#34;pagination&#34; aria-label=&#34;Footer&#34;&gt;
+  &lt;div class=&#34;previous&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/development-process/&#34; title=&#34;Development process&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Previous
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;button button-previous&#34; role=&#34;button&#34; aria-label=&#34;Previous&#34;&gt;
+            &lt;i class=&#34;icon icon-back&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Development process
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+
+  &lt;div class=&#34;next&#34;&gt;
+  
+      &lt;a href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34; title=&#34;Technology stack&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Next
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Technology stack
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;button button-next&#34; role=&#34;button&#34; aria-label=&#34;Next&#34;&gt;
+            &lt;i class=&#34;icon icon-forward&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+
+
+
+			&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;div class=&#34;results&#34; role=&#34;status&#34; aria-live=&#34;polite&#34;&gt;
+		&lt;div class=&#34;scrollable&#34;&gt;
+			&lt;div class=&#34;wrapper&#34;&gt;
+				&lt;div class=&#34;meta&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;list&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+    &lt;script&gt;
+    
+      var base_url = &#39;&#39;;
+      var repo_id  = &#39;&#39;;
+    
+    &lt;/script&gt;
+
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/application.js&#34;&gt;&lt;/script&gt;
+    
+
+    &lt;script&gt;
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName(&#34;h2&#34;);
+      var scrollspy = document.getElementById(&#39;scrollspy&#39;);
+
+      if(scrollspy) {
+        if(headers.length &gt; 0) {
+          for(var i = 0; i &lt; headers.length; i++) {
+            var li = document.createElement(&#34;li&#34;);
+            li.setAttribute(&#34;class&#34;, &#34;anchor&#34;);
+
+            var a  = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll(&#34;h1, h2, h3, h4, h5, h6&#34;);
+
+        for(var i = 0; i &lt; headers.length; i++) {
+            var a = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;class&#34;, &#34;headerlink&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, &#34;Permanent link&#34;)
+            a.innerHTML = &#34;#&#34;;
+            headers[i].appendChild(a);
+        }
+      }
+    &lt;/script&gt;
+
+    
+      &lt;script&gt;
+        (function(i,s,o,g,r,a,m){
+          i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          &#39;script&#39;, &#39;//www.google-analytics.com/analytics.js&#39;, &#39;ga&#39;);
+         
+        ga(&#39;create&#39;, &#39;UA-80660232-2&#39;, &#39;auto&#39;);
+        ga(&#39;set&#39;, &#39;anonymizeIp&#39;, true);
+        ga(&#39;send&#39;, &#39;pageview&#39;);
+         
+        var buttons = document.querySelectorAll(&#39;a&#39;);
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener(&#39;click&#39;, function() {
+              var action = item.getAttribute(&#39;data-action&#39;) || &#39;follow&#39;;
+              ga(&#39;send&#39;, &#39;event&#39;, &#39;outbound&#39;, action, item.href);
+            });
+          }
+        });
+         
+        var query = document.querySelector(&#39;.query&#39;);
+        query.addEventListener(&#39;blur&#39;, function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga(&#39;send&#39;, &#39;pageview&#39;, path + &#39;?q=&#39; + this.value);
+          }
+        });
+      &lt;/script&gt;
+    
+
+    &lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+  
+  
+  
+  
+   &lt;html class=&#34;no-js&#34;&gt; 
+
+  &lt;head lang=&#34;en-uk&#34;&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=10&#34; /&gt;
+    &lt;title&gt;HBP SP8 repository&lt;/title&gt;
+    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.17&#34; /&gt;
+
+    
+    &lt;meta name=&#34;description&#34; content=&#34;SP8 subproject (Medical Informatics Platform) for the Human Brain Project.&#34;&gt;
+    
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://hbpmedical.github.io/&#34;&gt;
+    
+    &lt;meta name=&#34;author&#34; content=&#34;HBP SP8 team&#34;&gt;
+    
+
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://hbpmedical.github.io/&#34;&gt;
+    &lt;meta property=&#34;og:title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta property=&#34;og:image&#34; content=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-title&#34; content=&#34;HBP SP8 repository&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-capable&#34; content=&#34;yes&#34;&gt;
+    &lt;meta name=&#34;apple-mobile-web-app-status-bar-style&#34; content=&#34;black-translucent&#34;&gt;
+
+    &lt;link rel=&#34;shortcut icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/x-icon&#34; href=&#34;https://hbpmedical.github.io/images/favicon.ico&#34;&gt;
+
+    &lt;style&gt;
+      @font-face {
+        font-family: &#39;Icon&#39;;
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;);
+        src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;)
+               format(&#39;embedded-opentype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.woff&#39;)
+               format(&#39;woff&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.ttf&#39;)
+               format(&#39;truetype&#39;),
+             url(&#39;https://hbpmedical.github.io/fonts/icon.svg&#39;)
+               format(&#39;svg&#39;);
+        font-weight: normal;
+        font-style: normal;
+      }
+    &lt;/style&gt;
+
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/application.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/temporary.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/palettes.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://hbpmedical.github.io/stylesheets/highlight/highlight.css&#34;&gt;
+
+    
+    
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&amp;#43;Mono&#34;&gt;
+    &lt;style&gt;
+      body, input {
+        font-family: &#39;Ubuntu&#39;, Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: &#39;Ubuntu Mono&#39;, &#39;Courier New&#39;, &#39;Courier&#39;, monospace;
+      }
+    &lt;/style&gt;
+
+    
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/modernizr.js&#34;&gt;&lt;/script&gt;
+
+    
+    &lt;link href=&#34;https://hbpmedical.github.io/index.xml&#34; rel=&#34;alternate&#34; type=&#34;application/rss+xml&#34; title=&#34;HBP SP8 repository&#34; /&gt;
+    &lt;link href=&#34;https://hbpmedical.github.io/index.xml&#34; rel=&#34;feed&#34; type=&#34;application/rss+xml&#34; title=&#34;HBP SP8 repository&#34; /&gt;
+    
+
+  &lt;/head&gt;
+  &lt;body class=&#34;palette-primary-red palette-accent-teal&#34;&gt;
+
+
+
+
+&lt;div class=&#34;backdrop&#34;&gt;
+	&lt;div class=&#34;backdrop-paper&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-drawer&#34;&gt;
+&lt;input class=&#34;toggle&#34; type=&#34;checkbox&#34; id=&#34;toggle-search&#34;&gt;
+&lt;label class=&#34;toggle-button overlay&#34; for=&#34;toggle-drawer&#34;&gt;&lt;/label&gt;
+
+&lt;header class=&#34;header&#34;&gt;
+	&lt;nav aria-label=&#34;Header&#34;&gt;
+  &lt;div class=&#34;bar default&#34;&gt;
+    &lt;div class=&#34;button button-menu&#34; role=&#34;button&#34; aria-label=&#34;Menu&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-menu&#34; for=&#34;toggle-drawer&#34;&gt;
+        &lt;span&gt;&lt;/span&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;
+        HBP SP8 repository
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div class=&#34;button button-twitter&#34; role=&#34;button&#34; aria-label=&#34;Twitter&#34;&gt;
+       &lt;a href=&#34;https://twitter.com/HBPmedical&#34; title=&#34;@HBPmedical on Twitter&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-twitter&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;div class=&#34;button button-github&#34; role=&#34;button&#34; aria-label=&#34;GitHub&#34;&gt;
+      &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; title=&#34;@HBPSP8Repo on GitHub&#34; target=&#34;_blank&#34; class=&#34;toggle-button icon icon-github&#34;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    
+    
+        
+  &lt;/div&gt;
+  &lt;div class=&#34;bar search&#34;&gt;
+    &lt;div class=&#34;button button-close&#34; role=&#34;button&#34; aria-label=&#34;Close&#34;&gt;
+      &lt;label class=&#34;toggle-button icon icon-back&#34; for=&#34;toggle-search&#34;&gt;&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;stretch&#34;&gt;
+      &lt;div class=&#34;field&#34;&gt;
+        &lt;input class=&#34;query&#34; type=&#34;text&#34; placeholder=&#34;Search&#34; autocapitalize=&#34;off&#34; autocorrect=&#34;off&#34; autocomplete=&#34;off&#34; spellcheck&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;button button-reset&#34; role=&#34;button&#34; aria-label=&#34;Search&#34;&gt;
+      &lt;button class=&#34;toggle-button icon icon-close&#34; id=&#34;reset-search&#34;&gt;&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+&lt;/header&gt;
+
+&lt;main class=&#34;main&#34;&gt;
+	&lt;div class=&#34;drawer&#34;&gt;
+		&lt;nav aria-label=&#34;Navigation&#34;&gt;
+  &lt;a href=&#34;https://github.com/HBPSP8Repo/HBPSP8Repo.github.io&#34; class=&#34;project&#34;&gt;
+    &lt;div class=&#34;banner&#34;&gt;
+      
+        &lt;div class=&#34;logo&#34;&gt;
+          &lt;img src=&#34;https://hbpmedical.github.io/images/hbp.png&#34;&gt;
+        &lt;/div&gt;
+      
+      &lt;div class=&#34;name&#34;&gt;
+        &lt;strong&gt;HBP SP8 repository &lt;/strong&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+  &lt;div class=&#34;scrollable&#34;&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      
+
+      &lt;div class=&#34;toc&#34;&gt;
+        
+        &lt;ul&gt;
+          
+
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a class=&#34;current&#34; title=&#34;HBP SP8&#34; href=&#34;https://hbpmedical.github.io/&#34;&gt;
+	
+	HBP SP8
+&lt;/a&gt;
+
+
+&lt;ul id=&#34;scrollspy&#34;&gt;
+&lt;/ul&gt;
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Documentation&#34; href=&#34;https://hbpmedical.github.io/documentation/&#34;&gt;
+	
+	Documentation
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Development Process&#34; href=&#34;https://hbpmedical.github.io/development-process/&#34;&gt;
+	
+	Development Process
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Software Catalog&#34; href=&#34;https://hbpmedical.github.io/software-catalog/&#34;&gt;
+	
+	Software Catalog
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Technology stack&#34; href=&#34;https://hbpmedical.github.io/software-catalog/stack/&#34;&gt;
+	
+	Technology stack
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+
+&lt;li&gt;
+  
+    
+
+
+
+&lt;a  title=&#34;Release notes&#34; href=&#34;https://hbpmedical.github.io/release-notes&#34;&gt;
+	
+	Release notes
+&lt;/a&gt;
+
+
+
+  
+&lt;/li&gt;
+
+
+        &lt;/ul&gt;
+        
+
+        
+        &lt;hr&gt;
+        &lt;span class=&#34;section&#34;&gt;The author&lt;/span&gt;
+        
+        &lt;ul&gt;
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://twitter.com/HBPmedical&#34; target=&#34;_blank&#34; title=&#34;@HBPmedical on Twitter&#34;&gt;
+              @HBPmedical on Twitter
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;https://github.com/HBPSP8Repo&#34; target=&#34;_blank&#34; title=&#34;@HBPSP8Repo on GitHub&#34;&gt;
+              @HBPSP8Repo on GitHub
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+
+          
+          &lt;li&gt;
+            &lt;a href=&#34;mailto:hbp_medicalinformatics@chuv.ch&#34; title=&#34;Email of hbp_medicalinformatics@chuv.ch&#34;&gt;
+              Contact via email
+            &lt;/a&gt;
+          &lt;/li&gt;
+          
+        &lt;/ul&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+	&lt;/div&gt;
+
+	&lt;article class=&#34;article&#34;&gt;
+		&lt;div class=&#34;wrapper&#34;&gt;
+			
+				&lt;h1&gt;HBP SP8 repository &lt;/h1&gt;
+
+				
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/follow?screen_name=HBPmedical&#34;&gt;&lt;img src=&#34;https://img.shields.io/twitter/follow/HBPmedical%20platform.svg?style=social&#34; alt=&#34;Twitter&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://hbpsp8.slack.com/archives/dev&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/slack-dev channel-e01563.svg&#34; alt=&#34;Slack&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://trello.com/hbpsp8&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-board-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;medical-informatics-platform-for-the-human-brain-project&#34;&gt;Medical Informatics Platform for the Human Brain Project&lt;/h2&gt;
+
+&lt;p&gt;Thousands of brain images and terabytes of invaluable associated medical data are produced every day at a gigantic pace around the world. The Medical Informatics Platform (MIP) aims to federate this information and provide the tools to the experts to effectively analyse it and advance more rapidly in understanding the neurological and psychiatric diseases. This will in turn allow identifying the biological changes associated and open real possibilities for early diagnosis and personalised medicine.&lt;/p&gt;
+
+&lt;p&gt;You can access the platform via one of those links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/50/nav/242&#34;&gt;MIP on collaboratory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mip.humanbrainproject.eu&#34;&gt;Direct access to MIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hbps1.chuv.ch&#34;&gt;Next version on staging environment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You may need to obtain a HBP Identity Account to login in the platform. More information &lt;a href=&#34;https://www.humanbrainproject.eu/platform-access&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/HBPmedical&#34;&gt;Tweets by HBPmedical&lt;/a&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+			
+
+			&lt;aside class=&#34;copyright&#34; role=&#34;note&#34;&gt;
+				
+				&amp;copy; 2017 Released under the MIT license &amp;ndash;
+				
+				Documentation built with
+				&lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+				using the
+				&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt; theme.
+			&lt;/aside&gt;
+
+			&lt;footer class=&#34;footer&#34;&gt;
+				
+
+
+
+&lt;nav class=&#34;pagination&#34; aria-label=&#34;Footer&#34;&gt;
+  &lt;div class=&#34;previous&#34;&gt;
+  &lt;/div&gt;
+
+  
+  
+  &lt;div class=&#34;next&#34;&gt;
+      &lt;a href=&#34;https://hbpmedical.github.io/documentation/&#34; title=&#34;Documentation&#34;&gt;
+        &lt;span class=&#34;direction&#34;&gt;
+          Next
+        &lt;/span&gt;
+        &lt;div class=&#34;page&#34;&gt;
+          &lt;div class=&#34;stretch&#34;&gt;
+            &lt;div class=&#34;title&#34;&gt;
+              Documentation
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;button button-next&#34; role=&#34;button&#34; aria-label=&#34;Next&#34;&gt;
+            &lt;i class=&#34;icon icon-forward&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+
+			&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;div class=&#34;results&#34; role=&#34;status&#34; aria-live=&#34;polite&#34;&gt;
+		&lt;div class=&#34;scrollable&#34;&gt;
+			&lt;div class=&#34;wrapper&#34;&gt;
+				&lt;div class=&#34;meta&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;list&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+    &lt;script&gt;
+    
+      var base_url = &#39;&#39;;
+      var repo_id  = &#39;&#39;;
+    
+    &lt;/script&gt;
+
+    &lt;script src=&#34;https://hbpmedical.github.io/javascripts/application.js&#34;&gt;&lt;/script&gt;
+    
+
+    &lt;script&gt;
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName(&#34;h2&#34;);
+      var scrollspy = document.getElementById(&#39;scrollspy&#39;);
+
+      if(scrollspy) {
+        if(headers.length &gt; 0) {
+          for(var i = 0; i &lt; headers.length; i++) {
+            var li = document.createElement(&#34;li&#34;);
+            li.setAttribute(&#34;class&#34;, &#34;anchor&#34;);
+
+            var a  = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll(&#34;h1, h2, h3, h4, h5, h6&#34;);
+
+        for(var i = 0; i &lt; headers.length; i++) {
+            var a = document.createElement(&#34;a&#34;);
+            a.setAttribute(&#34;class&#34;, &#34;headerlink&#34;);
+            a.setAttribute(&#34;href&#34;, &#34;#&#34; + headers[i].id);
+            a.setAttribute(&#34;title&#34;, &#34;Permanent link&#34;)
+            a.innerHTML = &#34;#&#34;;
+            headers[i].appendChild(a);
+        }
+      }
+    &lt;/script&gt;
+
+    
+      &lt;script&gt;
+        (function(i,s,o,g,r,a,m){
+          i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+          []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document,
+          &#39;script&#39;, &#39;//www.google-analytics.com/analytics.js&#39;, &#39;ga&#39;);
+         
+        ga(&#39;create&#39;, &#39;UA-80660232-2&#39;, &#39;auto&#39;);
+        ga(&#39;set&#39;, &#39;anonymizeIp&#39;, true);
+        ga(&#39;send&#39;, &#39;pageview&#39;);
+         
+        var buttons = document.querySelectorAll(&#39;a&#39;);
+        Array.prototype.map.call(buttons, function(item) {
+          if (item.host != document.location.host) {
+            item.addEventListener(&#39;click&#39;, function() {
+              var action = item.getAttribute(&#39;data-action&#39;) || &#39;follow&#39;;
+              ga(&#39;send&#39;, &#39;event&#39;, &#39;outbound&#39;, action, item.href);
+            });
+          }
+        });
+         
+        var query = document.querySelector(&#39;.query&#39;);
+        query.addEventListener(&#39;blur&#39;, function() {
+          if (this.value) {
+            var path = document.location.pathname;
+            ga(&#39;send&#39;, &#39;pageview&#39;, path + &#39;?q=&#39; + this.value);
+          }
+        });
+      &lt;/script&gt;
+    
+
+    &lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
