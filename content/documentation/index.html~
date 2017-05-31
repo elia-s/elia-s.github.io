@@ -15,44 +15,47 @@
     
     <meta name="description" content="SP8 subproject (Medical Informatics Platform) for the Human Brain Project.">
     
-    <link rel="canonical" href="https://hbpsp8repo.github.io/documentation/">
+    <link rel="canonical" href="https://hbpmedical.github.io/documentation/">
     
     <meta name="author" content="HBP SP8 team">
     
 
-    <meta property="og:url" content="https://hbpsp8repo.github.io/documentation/">
+    <meta property="og:url" content="https://hbpmedical.github.io/documentation/">
     <meta property="og:title" content="HBP SP8 repository">
-    <meta property="og:image" content="https://hbpsp8repo.github.io/images/hbp.png">
+    <meta property="og:image" content="https://hbpmedical.github.io/images/hbp.png">
     <meta name="apple-mobile-web-app-title" content="HBP SP8 repository">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    <link rel="shortcut icon" type="image/x-icon" href="https://hbpsp8repo.github.io/images/favicon.ico">
-    <link rel="icon" type="image/x-icon" href="https://hbpsp8repo.github.io/images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="https://hbpmedical.github.io/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://hbpmedical.github.io/images/favicon.ico">
 
     <style>
       @font-face {
         font-family: 'Icon';
-        src: url('https://hbpsp8repo.github.io/fonts/icon.eot');
-        src: url('https://hbpsp8repo.github.io/fonts/icon.eot')
+        src: url('https://hbpmedical.github.io/fonts/icon.eot');
+        src: url('https://hbpmedical.github.io/fonts/icon.eot')
                format('embedded-opentype'),
-             url('https://hbpsp8repo.github.io/fonts/icon.woff')
+             url('https://hbpmedical.github.io/fonts/icon.woff')
                format('woff'),
-             url('https://hbpsp8repo.github.io/fonts/icon.ttf')
+             url('https://hbpmedical.github.io/fonts/icon.ttf')
                format('truetype'),
-             url('https://hbpsp8repo.github.io/fonts/icon.svg')
+             url('https://hbpmedical.github.io/fonts/icon.svg')
                format('svg');
         font-weight: normal;
         font-style: normal;
       }
     </style>
 
-    <link rel="stylesheet" href="https://hbpsp8repo.github.io/stylesheets/application.css">
-    <link rel="stylesheet" href="https://hbpsp8repo.github.io/stylesheets/temporary.css">
-    <link rel="stylesheet" href="https://hbpsp8repo.github.io/stylesheets/palettes.css">
-    <link rel="stylesheet" href="https://hbpsp8repo.github.io/stylesheets/highlight/highlight.css">
+    <link rel="stylesheet" href="https://hbpmedical.github.io/stylesheets/application.css">
+    <link rel="stylesheet" href="https://hbpmedical.github.io/stylesheets/temporary.css">
+    <link rel="stylesheet" href="https://hbpmedical.github.io/stylesheets/palettes.css">
+    <link rel="stylesheet" href="https://hbpmedical.github.io/stylesheets/highlight/highlight.css">
 
-    
+    <!-- Accordion CSS + .js-->
+    <link rel="stylesheet" href="accordion.css">
+    <script src="accordion.js"></script>
+   
     
     
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&#43;Mono">
@@ -66,10 +69,14 @@
     </style>
 
     
-    <script src="https://hbpsp8repo.github.io/javascripts/modernizr.js"></script>
+    <script src="https://hbpmedical.github.io/javascripts/modernizr.js"></script>
 
     
-
+	<script>
+	  function resizeIframe(obj) {
+	  	obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+ 	  }
+	</script>
   </head>
   <body class="palette-primary-red palette-accent-teal">
 
@@ -130,224 +137,286 @@
 
 <main class="main">
 	<div class="drawer">
-		<nav aria-label="Navigation">
-  <a href="https://github.com/HBPSP8Repo/HBPSP8Repo.github.io" class="project">
-    <div class="banner">
-      
-        <div class="logo">
-          <img src="https://hbpsp8repo.github.io/images/hbp.png">
-        </div>
-      
-      <div class="name">
-        <strong>HBP SP8 repository </strong>
-        
-      </div>
-    </div>
-  </a>
-
-  <div class="scrollable">
-    <div class="wrapper">
-      
-
-      <div class="toc">
-        
-        <ul>
-          
-
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="HBP SP8" href="https://hbpsp8repo.github.io/">
-	
-	HBP SP8
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a class="current" title="Documentation" href="https://hbpsp8repo.github.io/documentation/">
-	
-	Documentation
-</a>
-
-
-<ul id="scrollspy">
-</ul>
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="Development Process" href="https://hbpsp8repo.github.io/development-process/">
-	
-	Development Process
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="Software Catalog" href="https://hbpsp8repo.github.io/software-catalog/">
-	
-	Software Catalog
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="Technology stack" href="https://hbpsp8repo.github.io/software-catalog/stack/">
-	
-	Technology stack
-</a>
-
-
-
-  
-</li>
-
-
-
-<li>
-  
-    
-
-
-
-<a  title="Release notes" href="https://hbpsp8repo.github.io/release-notes">
-	
-	Release notes
-</a>
-
-
-
-  
-</li>
-
-
-        </ul>
-        
-
-        
-        <hr>
-        <span class="section">The author</span>
-        
-        <ul>
-          
-          <li>
-            <a href="https://twitter.com/HBPmedical" target="_blank" title="@HBPmedical on Twitter">
-              @HBPmedical on Twitter
-            </a>
-          </li>
-          
-
-          
-          <li>
-            <a href="https://github.com/HBPSP8Repo" target="_blank" title="@HBPSP8Repo on GitHub">
-              @HBPSP8Repo on GitHub
-            </a>
-          </li>
-          
-
-          
-          <li>
-            <a href="mailto:hbp_medicalinformatics@chuv.ch" title="Email of hbp_medicalinformatics@chuv.ch">
-              Contact via email
-            </a>
-          </li>
-          
-        </ul>
-        
-      </div>
-    </div>
-  </div>
-</nav>
-
+		{{ partial "drawer" . }}
 	</div>
 
 	<article class="article">
+	<include>
 		<div class="wrapper">
 			<h1>Documentation </h1>
 
 			<h2 id="user_guide">User Guide</h2>
-			You can find the detailed user guide at the following <a href="https://hbpsp8repo.github.io/documentation/HBP_SP8_UserGuide_latest.pdf">link</a>
+			You can find the detailed user guide at the following <a href="https://hbpmedical.github.io/documentation/HBP_SP8_UserGuide_latest.pdf">link</a>
 			<h2 id="mip_tools">MIP tools</h2>
-			The complete list of MIP tools is available <a href="https://hbpsp8repo.github.io/documentation/HBP_MIP_Tools.pdf">here</a>.
+			The complete list of MIP tools is available <a href="http://193.204.145.80:1313/docs/mip_tools.pdf">here</a>.
+			
 			<h2 id="mip_variables">MIP Variables</h2>
+			<button class="accordion" style="margin-top: 15px">ADNI</button>
+			<div class="panel">
+			<br>
+			<table style="width: 90%; float: left; margin-left: 0px; margin-top: -20px">
+				<thead>
+				<tr>
+					<th>Variable</th>
+					<th>Category</th>
+					<th>Methodology</th>
+					<th>Description</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80/csv/mip_variables_4.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+			</div>
+<button class="accordion">FREIBURG</button>
+<div class="panel">
+			<br>
+			<table style="width: 90%; float: left; margin-left: 0px; margin-top: -20px">
+				<thead>
+				<tr>
+					<th>Variable</th>
+					<th>Category</th>
+					<th>Methodology</th>
+					<th>Description</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/freiburg.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+</div>
+<button class="accordion">LAUSANNE</button>
+<div class="panel">
+			<br>
+			<table style="width: 90%; float: left; margin-left: 0px; margin-top: -20px">
+				<thead>
+				<tr>
+					<th>Variable</th>
+					<th>Category</th>
+					<th>Methodology</th>
+					<th>Description</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/lausanne.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+</div>
+<button class="accordion">MILAN</button>
+<div class="panel">
+			<br>
+			<table style="width: 90%; float: left; margin-left: 0px; margin-top: -20px">
+				<thead>
+				<tr>
+					<th>Variable</th>
+					<th>Category</th>
+					<th>Methodology</th>
+					<th>Description</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/milan.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+</div>
+<button class="accordion">LILLE</button>
+<div class="panel">
+			<br>
+			<table style="width: 90%; float: left; margin-left: 0px; margin-top: -20px">
+				<thead>
+				<tr>
+					<th>Variable</th>
+					<th>Category</th>
+					<th>Methodology</th>
+					<th>Description</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/lille.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+</div>
+<button class="accordion">TEL AVIV</button>
+<div class="panel">
+			<br>
+			<table style="width: 90%; float: left; margin-left: 0px; margin-top: -20px">
+				<thead>
+				<tr>
+					<th>Variable</th>
+					<th>Category</th>
+					<th>Methodology</th>
+					<th>Description</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80/csv/mip_variables_4.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+</div>
+
 			<p></p>
 			<br />
 			<h1 align="left">Technical Documentation</h1>
 
 			<p><h2 id="mip_services">MIP services</h2></p>
-			You can find the full list of MIP services <a href="https://hbpsp8repo.github.io/documentation/mip_services.pdf">here</a>.
+			You can find the full list of MIP services <a href="http://193.204.145.80:1313/docs/mip_services.pdf">here</a>.
 			<p><h2 id="hospitals_info">Hospitals Information System Database</h2></p>
+			<img style="width:600px; height:400px;" src="/images/stolen.png" alt="Work In Progress"></img>
+			<p><h2 id="research_cohort">Research Cohort to Be Federated</h2></p>
+			<button class="accordion" style="margin-top: 15px">Open/Close Table</button>
+			<div class="panel">
+			<br>
+			
+			<table style="float: left; margin-left: 0px; margin-top: -20px; white-space: nowrap; overflow:scroll;">
+				<thead>
+				<tr>
+					<th>ID</th>
+					<th>Dataset Name</th>
+					<th>URL</th>
+					<th>Subjects Numerosity (@BSL)</th>
+					<th>Type of Data Collected</th>
+					<th>Clinical</th>
+					<th>Demographic</th>
+					<th>Biologic</th>
+					<th>Cognitive abilities</th>
+					<th>Epidemiological</th>
+					<th>Genetic</th>
+					<th>Imaging</th>
+					<th>Brain Bank</th>
+					<th>EEG</th>
+					<th>Bio Bank</th>
+					<th>Clinical & Epidemiological Characteristics</th>
+					<th>Principal Investigator (PI)</th>
+					<th>Contacts</th>
+					<th>Data Policy</th>
+					<th width="50%">Data Use Agreement (DUA)</th>
+					<th>Possible Availability in HBP MIP</th>
+					<th>How (i.e.: most likely way of federation/sharing)</th>
+					<th>When</th>
+					<th>Current Storage Location</th>
+					<th>Hosting Platform</th>
+					<th>Research Cohort</th>
+					<th>Epidemiological Study</th>
+					<th>Baseline cohort on Healthy</th>
+					<th>Priority</th>
+				</tr>
+				</thead>
+				<tbody>
+					{{ $url := "http://193.204.145.80:1313/csv/research_datasets_of_interest_4_3.csv" }}
+					{{ $sep := ";" }}
+					{{ range $i, $r := getCSV $sep $url }}
+					<tr>
+						<td>{{ index $r 0 }}</td>
+						<td>{{ index $r 1 }}</td>
+						<td>{{ index $r 2 }}</td>
+						<td>{{ index $r 3 }}</td>
+						<td>{{ index $r 4 }}</td>
+						<td>{{ index $r 5 }}</td>
+						<td>{{ index $r 6 }}</td>
+						<td>{{ index $r 7 }}</td>
+						<td>{{ index $r 8 }}</td>
+						<td>{{ index $r 9 }}</td>
+						<td>{{ index $r 10 }}</td>
+						<td>{{ index $r 11 }}</td>
+						<td>{{ index $r 12 }}</td>
+						<td>{{ index $r 13 }}</td>
+						<td>{{ index $r 14 }}</td>
+						<td>{{ index $r 15 }}</td>
+						<td>{{ index $r 16 }}</td>
+						<td>{{ index $r 17 }}</td>
+						<td>{{ index $r 18 }}</td>
+						<td>{{ index $r 19 }}</td>
+						<td>{{ index $r 20 }}</td>
+						<td>{{ index $r 21 }}</td>
+						<td>{{ index $r 22 }}</td>
+						<td>{{ index $r 23 }}</td>
+						<td>{{ index $r 24 }}</td>
+						<td>{{ index $r 25 }}</td>
+						<td>{{ index $r 26 }}</td>
+						<td>{{ index $r 27 }}</td>
+						<td>{{ index $r 28 }}</td>
+						<td>{{ index $r 29 }}</td>
+					</tr>
+						{{ end }}
+				</tbody>
+			</table>
+			</div>
+
+			<script>
+			var acc = document.getElementsByClassName("accordion");
+			var i;
+
+			for (i = 0; i < acc.length; i++) {
+				acc[i].onclick = function() {
+					this.classList.toggle("active");
+					var panel = this.nextElementSibling;
+					if (panel.style.maxHeight){
+						panel.style.maxHeight = null;
+					} else {
+						panel.style.maxHeight = panel.scrollHeight + "px";
+					} 
+				}
+			}
+			</script>
 
 			<p></p>
 			<br />
-			<h1 align="left">Useful Links</h1>
 
-			<h2 id="media">Media</h2>
-			<h3>First public release of the MIP (March 2016)!</h3>
-			<p>
-			<ul>
-				<li>New machine learning techniques and algorithms : k-nearest neighbor, Gaussian Process Regression, SVM, Random Forest
-				<li>Experiments: user can create Experiments on existing models (own or shared), configure and apply cross-validation partitions, run the Experiments to view results, save the Experiments and optionally share them with the MIP Community</li>
-				<li>Integration of Experiments into existing MIP functionality (My Data, My Community, Article writting, Biological Signatures of Diseases) - i.e. visualise experiments and their running status, see related experiments (based on same model), include experiment results when writing articles</li>
-				<li>Apps section revamped (style improved + voting) (please note that the Apps section is still in the incipient phase and further work will be engaged to improve it)</li>
-				<li>Epidemiological Exploration : user may now select a whole group of variables for configuration and creation of Models</li>
-			</ul>
-			</p>
-			<h3>First public release of the MIP (March 2016)</h3>
-			<p>The MIP was publicly released on 31st March 2016 along with the other platforms of the Human Brain Project. The video below features all platforms, while the part dedicated to the MIP is to be seen between 1:45:00 and 2:00:00</p>
-			<iframe width="90%" height="390" src="https://www.youtube.com/embed/2XXz2quUWFQ" frameborder="0" allowfullscreen></iframe>
-
-			<h2 id="quiz">Quiz</h2>
-			<iframe style="width:90%; height:280px;" src="http://localhost/hbp_doc/quiz.php">FUG :DDDDDD</iframe>
-			<h2 id="feedback_help">Feedback & Help</h2>
-	<iframe style="width:90%; height:280px;" src="http://localhost/hbp_doc/feedback_help.php">FUG :DDDDDD</iframe>
-			<aside class="copyright" role="note">
+				<aside class="copyright" role="note">
 				
 				&copy; 2017 Released under the MIT license &ndash;
 				
@@ -363,7 +432,7 @@
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   
-      <a href="https://hbpsp8repo.github.io/" title="HBP SP8 repository">
+      <a href="https://hbpmedical.github.io/" title="HBP SP8 repository">
         <span class="direction">
           Previous
         </span>
@@ -383,7 +452,7 @@
 
   <div class="next">
   
-      <a href="https://hbpsp8repo.github.io/development-process/" title="Development process">
+      <a href="https://hbpmedical.github.io/development-process/" title="Development process">
         <span class="direction">
           Next
         </span>
@@ -427,8 +496,7 @@
     
     </script>
 
-    <script src="https://hbpsp8repo.github.io/javascripts/application.js"></script>
-    
+    <script src="https://hbpmedical.github.io/javascripts/application.js"></script>
 
     <script>
       /* Add headers to scrollspy */
