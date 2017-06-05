@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on HBP SP8 Repository</title>
+    <link>https://elia-s.github.io/media/</link>
+    <description>Recent content in Media on HBP SP8 Repository</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Tue, 16 May 2017 17:33:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://elia-s.github.io/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Media</title>
+      <link>https://elia-s.github.io/media/</link>
+      <pubDate>Tue, 16 May 2017 17:33:14 +0200</pubDate>
+      
+      <guid>https://elia-s.github.io/media/</guid>
+      <description>MIP in a Nutshell   New machine learning techniques and algorithms : k-nearest neighbor, Gaussian Process Regression, SVM, Random Forest Experiments: user can create Experiments on existing models (own or shared), configure and apply cross-validation partitions, run the Experiments to view results, save the Experiments and optionally share them with the MIP Community Integration of Experiments into existing MIP functionality (My Data, My Community, Article writting, Biological Signatures of Diseases) - i.</description>
+    </item>
+    
+  </channel>
+</rss>
